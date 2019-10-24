@@ -2,3 +2,10 @@
 
 This package contains functions facilitating python use for data wrangling, visualizing data, and modeling.
 
+## installation via github
+* `pip install git+https://github.com/MirkoTh/mt_utils.git`
+
+## local installation on data-science server
+* cd to top folder of the package (O:\\DMIS Jemas\20 Sourcecode\90_Python\mt_utils)
+* run `python setup.py install` in cmd
+
