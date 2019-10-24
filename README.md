@@ -5,7 +5,7 @@ This package contains functions facilitating python use for data wrangling, visu
 ## installation via github
 * `pip install git+https://github.com/MirkoTh/mt_utils.git`
 
-## local installation on data-science server
+## local installation
 * cd to top folder of the package
 * run `python setup.py install` in cmd
 
