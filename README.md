@@ -6,6 +6,6 @@ This package contains functions facilitating python use for data wrangling, visu
 * `pip install git+https://github.com/MirkoTh/mt_utils.git`
 
 ## local installation on data-science server
-* cd to top folder of the package (O:\\DMIS Jemas\20 Sourcecode\90_Python\mt_utils)
+* cd to top folder of the package
 * run `python setup.py install` in cmd
 
